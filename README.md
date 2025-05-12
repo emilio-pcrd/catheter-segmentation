@@ -11,3 +11,6 @@ This repository contains source code to train SAM (pretrained in MedSam or eithe
 This approach uses bounding box prompts during training, and can be adapt to point prompts during inference.
 
 With a 0-shot approach during inference, SAM achieved a `mIOU of 0.57` and a `Dice metric of 0.72`. Previous work have seen mIOU arround 0.45, using U-Net architectures.
+
+![Results](results.png)
+
